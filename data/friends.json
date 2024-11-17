@@ -1,0 +1,70 @@
+{
+  "friends": [
+    {
+      "id": "3912",
+      "friendName": "Olivia Fernández",
+      "email": "abcd@gmail.com",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-28T04:03:09.627Z",
+
+      "position": {
+        "lat": "39.98619605209568",
+        "lng": "-0.03776550292968751"
+      }
+    },
+    {
+      "id": "9ffd",
+      "friendName": "Camila Martínez",
+      "email": "efgh@gmail.com",
+      "cityName": "Cabanes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-28T05:10:07.649Z",
+      "position": {
+        "lat": "40.159590771994516",
+        "lng": "0.013732910156250002"
+      }
+    },
+    {
+      "id": "23f3",
+      "friendName": "Pablo López",
+      "email": "ijkl@gmail.com",
+      "cityName": "Vilanova d'Alcolea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-28T05:11:37.315Z",
+      "position": {
+        "lat": "40.241536497539364",
+        "lng": "0.03484725952148438"
+      }
+    },
+    {
+      "id": "1519",
+      "friendName": "Mario Fernández",
+      "email": "mnop@gmail.com",
+      "cityName": "Alcala de Xivert",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-28T05:12:02.039Z",
+      "position": {
+        "lat": "40.24337094755272",
+        "lng": "0.19723892211914062"
+      }
+    },
+    {
+      "id": "fdf7",
+      "friendName": "Sayan Pakrashi",
+      "email": "qrst@gmail.com",
+      "cityName": "Kalna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-28T06:09:25.277Z",
+      "position": {
+        "lat": "23.221154981846556",
+        "lng": "88.36029052734376"
+      }
+    }
+  ]
+}
